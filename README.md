@@ -11,3 +11,23 @@ Type: Frontend
 Tech: HTML5,CSS3
 
 Status:Completed
+
+TASK 2 - 
+
+Website Name: Student Enrollment Form
+
+Type: Frontend
+
+Tech: HTML5,CSS3
+
+Status:Completed
+
+TASK 3 -
+
+Website Name: Student Result Management
+
+Type: Frontend
+
+Tech: HTML5,CSS3
+
+Status:Completed
